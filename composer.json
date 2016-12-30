@@ -1,0 +1,33 @@
+{
+  "name": "patrickschur/cologne-phonetic",
+  "type": "library",
+  "description": "Implementation of Cologne Phonetics (Kölner Phonetik) in PHP.",
+  "keywords": ["cologne", "phonetic", "kölner", "phonetik"],
+  "homepage": "https://github.com/patrickschur/cologne-phonetic",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "Patrick Schur",
+      "email": "patrick_schur@outlook.de"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "ext-iconv": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "ColognePhonetic\\": "src/ColognePhonetic"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "ColognePhonetic\\Tests\\": "tests/"
+    }
+  }
+}

@@ -27,7 +27,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "ColognePhonetic\\Tests\\": "tests/"
+      "ColognePhonetic\\Tests\\": "tests/ColognePhonetic"
     }
   }
 }

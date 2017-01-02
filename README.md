@@ -1,5 +1,5 @@
 # cologne-phonetic
-[![Build Status](https://travis-ci.org/patrickschur/cologne-phonetic.svg?branch=master)](https://travis-ci.org/patrickschur/cologne-phonetic)
+[![Build Status](https://travis-ci.org/patrickschur/cologne-phonetic.svg)](https://travis-ci.org/patrickschur/cologne-phonetic)
 [![codecov](https://codecov.io/gh/patrickschur/cologne-phonetic/branch/master/graph/badge.svg)](https://codecov.io/gh/patrickschur/cologne-phonetic)
 [![Version](https://img.shields.io/packagist/v/patrickschur/cologne-phonetic.svg?style=flat-square)](https://packagist.org/packages/patrickschur/cologne-phonetic)
 [![Total Downloads](https://img.shields.io/packagist/dt/patrickschur/cologne-phonetic.svg?style=flat-square)](https://packagist.org/packages/patrickschur/cologne-phonetic)

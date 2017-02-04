@@ -5,6 +5,7 @@ declare(strict_types = 1);
 namespace ColognePhonetic\Tests;
 
 use ColognePhonetic\ColognePhonetic;
+use PHPUnit\Framework\TestCase;
 
 /**
  * Class ColognePhoneticTest
@@ -12,7 +13,7 @@ use ColognePhonetic\ColognePhonetic;
  * @author Patrick Schur <patrick_schur@outlook.de>
  * @package ColognePhonetic\Tests
  */
-class ColognePhoneticTest extends \PHPUnit_Framework_TestCase
+class ColognePhoneticTest extends TestCase
 {
     /**
      * @param string $expected
